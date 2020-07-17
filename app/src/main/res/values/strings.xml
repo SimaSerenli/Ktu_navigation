@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KTU_NAVIGATION</string>
+    <string name="GirisButonu">GİRİŞ</string>
+    <string name="button1">REKTÖRLÜK</string>
+    <string name="button2">Bilgisayar Mühendisliği</string>
+    <string name="button3">Biyoloji</string>
+    <string name="button4">Elektrik Elektronik Mühendisliği</string>
+    <string name="button5">Endüstri Mühendisliği</string>
+    <string name="button6">Fizik </string>
+    <string name="button7">Harita Mühendisliği</string>
+    <string name="button8">Jeoloji Mühendisliği</string>
+    <string name="button9">İnşaat Mühendisliği</string>
+    <string name="button10">Kimya </string>
+    <string name="button11">Maden Mühendisliği</string>
+    <string name="button12">Makina Mühendisliği</string>
+    <string name="button13">İktisadi vr İdari Bilimler</string>
+    <string name="button14">Mimarlık/İç Mimarlık</string>
+    <string name="button15">Orman Mühendisliği</string>
+    <string name="button16">Peyzaj Mimarlığı</string>
+    <string name="button17">Tarih</string>
+    <string name="button18">Öğrenci İşleri</string>
+    <string name="button19">Kütüphane</string>
+    <string name="button20">Dil Edebiyat Bölümleri</string>
+
+</resources>

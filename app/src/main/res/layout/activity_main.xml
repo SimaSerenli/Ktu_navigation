@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+        android:layout_width="407dp"
+        android:layout_height="727dp"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="2dp">
+
+        <Button
+            android:id="@+id/GirisButonu"
+            android:layout_width="150dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="500dp"
+            android:background="#2263AC"
+            android:text="@string/GirisButonu" />
+
+        <ImageView
+            android:id="@+id/GirisView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="90dp"
+            android:layout_marginTop="100dp"
+            app:srcCompat="@drawable/ktuimage" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="270dp"
+            android:layout_height="55dp"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="400dp"
+            android:text="app adı" />
+</RelativeLayout>
+
